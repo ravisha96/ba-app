@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/connection.js" />
+        <item url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB-working/connection.js" />
+        <item url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB-working/table.js" />
+        <item url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/table.js" />
+        <item url="file://$PROJECT_DIR$/app/public/js/config.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/betting-assistance/betting-assistance/app/public/js/plugin/indexedDB.js" />
+      <root url="file://$PROJECT_DIR$/betting-assistance/betting-assistance/app.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/dbConfig.js" />
+      <root url="file://$PROJECT_DIR$/betting-assistance/betting-assistance/app/public/js/plugin/indexedDB.js" />
+      <root url="file://$PROJECT_DIR$/betting-assistance/betting-assistance/app.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/dbConfig.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/connectionts.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/connectionts.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/connection.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB-working/connection.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB-working/table.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/plugin/indexedDB/table.js" />
+      <root url="file://$PROJECT_DIR$/app/public/js/config.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

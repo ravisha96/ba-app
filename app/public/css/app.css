@@ -1,0 +1,18 @@
+.container {
+	padding: 0;
+	margin: 0;
+}
+
+
+.user-entry thead {
+	background: linear-gradient(#BB9568, #BB9568);
+	cursor: pointer;
+}
+
+.user-entry tbody tr {
+	cursor: pointer;
+}
+
+.user-entry thead th{
+	border-right: 1px solid rgba(179, 179, 179, 1);
+}

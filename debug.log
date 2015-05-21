@@ -1,0 +1,417 @@
+[3704:0507/120329:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[3704:0507/120329:ERROR:nw_shell.cc(335)] Error: listen EADDRINUSE :::3000
+    at Object.exports._errnoException (util.js:734:11)
+    at exports._exceptionWithHostPort (util.js:757:20)
+    at Server._listen2 (net.js:1153:14)
+    at listen (net.js:1179:10)
+    at Server.listen (net.js:1266:5)
+    at EventEmitter.app.listen (C:\Users\ravisha\Desktop\slush-wean\node_modules\express\lib\application.js:595:24)
+    at Object.<anonymous> (C:\Users\ravisha\Desktop\slush-wean\app\app.js:23:18)
+    at Module._compile (module.js:451:26)
+    at Object.Module._extensions..js (module.js:469:10)
+    at Module.load (module.js:346:32)
+[3704:0507/120329:INFO:CONSOLE(125)] "Uncaught Error: listen EADDRINUSE :::3000", source: events.js (125)
+[12180:0507/120338:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[8324:0507/120811:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[8324:0507/120813:ERROR:nw_shell.cc(335)] Error: listen EADDRINUSE :::3000
+    at Object.exports._errnoException (util.js:734:11)
+    at exports._exceptionWithHostPort (util.js:757:20)
+    at Server._listen2 (net.js:1153:14)
+    at listen (net.js:1179:10)
+    at Server.listen (net.js:1266:5)
+    at EventEmitter.app.listen (C:\Users\ravisha\Dropbox\practise\betting-assistance\node_modules\express\lib\application.js:595:24)
+    at Object.<anonymous> (C:\Users\ravisha\Dropbox\practise\betting-assistance\app\app.js:23:18)
+    at Module._compile (module.js:451:26)
+    at Object.Module._extensions..js (module.js:469:10)
+    at Module.load (module.js:346:32)
+[8324:0507/120813:INFO:CONSOLE(125)] "Uncaught Error: listen EADDRINUSE :::3000", source: events.js (125)
+[11432:0507/120821:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[11432:0507/120825:ERROR:nw_shell.cc(335)] Error: [$injector:modulerr] http://errors.angularjs.org/1.3.15/$injector/modulerr?p0=betting-assistance&p1=Error%3A%20%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.3.15%2F%24injector%2Fmodulerr%3Fp0%3Dui.router%26p1%3DError%253A%2520%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.3.15%252F%2524injector%252Fnomod%253Fp0%253Dui.router%250A%2520%2520%2520%2520at%2520Error%2520(native)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A6%253A417%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A412%250A%2520%2520%2520%2520at%2520a%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A53)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A296%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A116%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%250A%2520%2520%2520%2520at%2520g%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A34%253A399)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A63%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%0A%20%20%20%20at%20Error%20(native)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A6%3A417%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A320%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A63%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20ab%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A38%3A135)%0A%20%20%20%20at%20d%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A17%3A381)
+    at Error (native)
+    at http://localhost:3000/libs/angular/angular.min.js:6:417
+    at http://localhost:3000/libs/angular/angular.min.js:35:320
+    at r (http://localhost:3000/libs/angular/angular.min.js:7:302)
+    at g (http://localhost:3000/libs/angular/angular.min.js:34:399)
+    at ab (http://localhost:3000/libs/angular/angular.min.js:38:135)
+    at d (http://localhost:3000/libs/angular/angular.min.js:17:381)
+    at uc (http://localhost:3000/libs/angular/angular.min.js:18:179)
+    at Jd (http://localhost:3000/libs/angular/angular.min.js:17:1)
+    at http://localhost:3000/libs/angular/angular.min.js:250:429
+[11432:0507/120825:INFO:CONSOLE(35)] "Uncaught Error: [$injector:modulerr] http://errors.angularjs.org/1.3.15/$injector/modulerr?p0=betting-assistance&p1=Error%3A%20%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.3.15%2F%24injector%2Fmodulerr%3Fp0%3Dui.router%26p1%3DError%253A%2520%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.3.15%252F%2524injector%252Fnomod%253Fp0%253Dui.router%250A%2520%2520%2520%2520at%2520Error%2520(native)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A6%253A417%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A412%250A%2520%2520%2520%2520at%2520a%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A53)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A296%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A116%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%250A%2520%2520%2520%2520at%2520g%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A34%253A399)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A63%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%0A%20%20%20%20at%20Error%20(native)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A6%3A417%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A320%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A63%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20ab%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A38%3A135)%0A%20%20%20%20at%20d%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A17%3A381)", source: http://localhost:3000/libs/angular/angular.min.js (35)
+[10880:0507/120900:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[10880:0507/120904:ERROR:nw_shell.cc(335)] Error: [$injector:modulerr] http://errors.angularjs.org/1.3.15/$injector/modulerr?p0=betting-assistance&p1=Error%3A%20%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.3.15%2F%24injector%2Fmodulerr%3Fp0%3Dui.router%26p1%3DError%253A%2520%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.3.15%252F%2524injector%252Fnomod%253Fp0%253Dui.router%250A%2520%2520%2520%2520at%2520Error%2520(native)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A6%253A417%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A412%250A%2520%2520%2520%2520at%2520a%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A53)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A296%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A116%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%250A%2520%2520%2520%2520at%2520g%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A34%253A399)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A63%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%0A%20%20%20%20at%20Error%20(native)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A6%3A417%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A320%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A63%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20ab%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A38%3A135)%0A%20%20%20%20at%20d%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A17%3A381)
+    at Error (native)
+    at http://localhost:3000/libs/angular/angular.min.js:6:417
+    at http://localhost:3000/libs/angular/angular.min.js:35:320
+    at r (http://localhost:3000/libs/angular/angular.min.js:7:302)
+    at g (http://localhost:3000/libs/angular/angular.min.js:34:399)
+    at ab (http://localhost:3000/libs/angular/angular.min.js:38:135)
+    at d (http://localhost:3000/libs/angular/angular.min.js:17:381)
+    at uc (http://localhost:3000/libs/angular/angular.min.js:18:179)
+    at Jd (http://localhost:3000/libs/angular/angular.min.js:17:1)
+    at http://localhost:3000/libs/angular/angular.min.js:250:429
+[10880:0507/120904:INFO:CONSOLE(35)] "Uncaught Error: [$injector:modulerr] http://errors.angularjs.org/1.3.15/$injector/modulerr?p0=betting-assistance&p1=Error%3A%20%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.3.15%2F%24injector%2Fmodulerr%3Fp0%3Dui.router%26p1%3DError%253A%2520%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.3.15%252F%2524injector%252Fnomod%253Fp0%253Dui.router%250A%2520%2520%2520%2520at%2520Error%2520(native)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A6%253A417%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A412%250A%2520%2520%2520%2520at%2520a%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A53)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A21%253A296%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A116%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%250A%2520%2520%2520%2520at%2520g%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A34%253A399)%250A%2520%2520%2520%2520at%2520http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A35%253A63%250A%2520%2520%2520%2520at%2520r%2520(http%253A%252F%252Flocalhost%253A3000%252Flibs%252Fangular%252Fangular.min.js%253A7%253A302)%0A%20%20%20%20at%20Error%20(native)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A6%3A417%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A320%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A35%3A63%0A%20%20%20%20at%20r%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A7%3A302)%0A%20%20%20%20at%20g%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A34%3A399)%0A%20%20%20%20at%20ab%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A38%3A135)%0A%20%20%20%20at%20d%20(http%3A%2F%2Flocalhost%3A3000%2Flibs%2Fangular%2Fangular.min.js%3A17%3A381)", source: http://localhost:3000/libs/angular/angular.min.js (35)
+[12340:0507/121157:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[4364:0507/125406:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[12676:0507/125431:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[11992:0507/125431:WARNING:raw_channel_win.cc(471)] WriteFile: The pipe is being closed. (0xE8)
+[11992:0507/125431:WARNING:channel.cc(553)] Failed to send message to ack remove remote endpoint (local ID 1, remote ID 1)
+[12148:0507/125432:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[12148:0507/125510:INFO:CONSOLE(9)] "", source: http://localhost:3000/js/entry/user.js (9)
+[12148:0507/125606:INFO:CONSOLE(9)] "", source: http://localhost:3000/js/entry/user.js (9)
+[12148:0507/131359:INFO:CONSOLE(102)] ""Error: [ng:areq] http://errors.angularjs.org/1.3.15/ng/areq?p0=UserEntryController&p1=not%20a%20function%2C%20got%20undefined\n    at Error (native)\n    at http://localhost:3000/libs/angular/angular.min.js:6:417\n    at Rb (http://localhost:3000/libs/angular/angular.min.js:19:510)\n    at sb (http://localhost:3000/libs/angular/angular.min.js:20:78)\n    at $get (http://localhost:3000/libs/angular/angular.min.js:75:396)\n    at compile (http://localhost:3000/libs/angular-ui-router/release/angular-ui-router.min.js:7:22767)\n    at $ (http://localhost:3000/libs/angular/angular.min.js:70:197)\n    at B (http://localhost:3000/libs/angular/angular.min.js:59:255)\n    at g (http://localhost:3000/libs/angular/angular.min.js:51:335)\n    at http://localhost:3000/libs/angular/angular.min.js:50:444" "\u003Cdiv ui-view=\"\" class=\"ng-scope\"\u003E"", source: http://localhost:3000/libs/angular/angular.min.js (102)
+[12816:0507/131405:WARNING:raw_channel_win.cc(471)] WriteFile: The pipe is being closed. (0xE8)
+[12816:0507/131405:WARNING:channel.cc(553)] Failed to send message to ack remove remote endpoint (local ID 2147483649, remote ID 3)
+[12816:0507/131405:WARNING:channel.cc(320)] RawChannel write error
+[12816:0507/131405:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[9444:0507/131405:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[12704:0507/131411:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[12704:0507/131416:INFO:CONSOLE(102)] ""Error: [ng:areq] http://errors.angularjs.org/1.3.15/ng/areq?p0=UserEntryController&p1=not%20a%20function%2C%20got%20undefined\n    at Error (native)\n    at http://localhost:3000/libs/angular/angular.min.js:6:417\n    at Rb (http://localhost:3000/libs/angular/angular.min.js:19:510)\n    at sb (http://localhost:3000/libs/angular/angular.min.js:20:78)\n    at http://localhost:3000/libs/angular/angular.min.js:75:396\n    at http://localhost:3000/libs/angular-ui-router/release/angular-ui-router.min.js:7:22767\n    at $ (http://localhost:3000/libs/angular/angular.min.js:70:197)\n    at B (http://localhost:3000/libs/angular/angular.min.js:59:255)\n    at g (http://localhost:3000/libs/angular/angular.min.js:51:335)\n    at http://localhost:3000/libs/angular/angular.min.js:50:444" "\u003Cdiv ui-view=\"\" class=\"ng-scope\"\u003E"", source: http://localhost:3000/libs/angular/angular.min.js (102)
+[12704:0507/131446:INFO:CONSOLE(102)] ""Error: [ng:areq] http://errors.angularjs.org/1.3.15/ng/areq?p0=UserEntryController&p1=not%20a%20function%2C%20got%20undefined\n    at Error (native)\n    at http://localhost:3000/libs/angular/angular.min.js:6:417\n    at Rb (http://localhost:3000/libs/angular/angular.min.js:19:510)\n    at sb (http://localhost:3000/libs/angular/angular.min.js:20:78)\n    at http://localhost:3000/libs/angular/angular.min.js:75:396\n    at http://localhost:3000/libs/angular-ui-router/release/angular-ui-router.min.js:7:22767\n    at $ (http://localhost:3000/libs/angular/angular.min.js:70:197)\n    at B (http://localhost:3000/libs/angular/angular.min.js:59:255)\n    at g (http://localhost:3000/libs/angular/angular.min.js:51:335)\n    at http://localhost:3000/libs/angular/angular.min.js:50:444" "\u003Cdiv ui-view=\"\" class=\"ng-scope\"\u003E"", source: http://localhost:3000/libs/angular/angular.min.js (102)
+[12704:0507/131515:INFO:CONSOLE(13)] "", source: http://localhost:3000/js/entry/user.controller.js (13)
+[12704:0507/131543:INFO:CONSOLE(13)] ""ravi"", source: http://localhost:3000/js/entry/user.controller.js (13)
+[12704:0507/141005:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141007:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141258:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141303:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141308:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141314:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141319:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141324:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[12704:0507/141329:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[1672:0507/142738:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[11940:0507/142831:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[9620:0507/142831:WARNING:ipc_channel_win.cc(274)] Unable to create pipe "\\.\pipe\chrome.11940.0.125365452" in client mode: The system cannot find the file specified. (0x2)
+[8548:0507/142836:ERROR:gpu_info_collector_win.cc(146)] Could not read gaming score from assessment results.
+[8548:0507/174548:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174551:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174553:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174556:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174557:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174558:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174601:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174602:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174603:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174606:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174607:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174608:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174609:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174611:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174612:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174613:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174614:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174616:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174617:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174618:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174619:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174621:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174622:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174623:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174624:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174626:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174627:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174628:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174629:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174631:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174632:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174633:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174634:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174636:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174637:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174638:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174639:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174641:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174642:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174643:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174644:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174646:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174647:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174648:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174649:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174651:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174652:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174653:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174654:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174656:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174657:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174658:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174659:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174702:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174702:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174703:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174704:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174707:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174707:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174708:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174709:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174712:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174712:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174713:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174714:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174717:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174717:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174718:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174719:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174722:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174722:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174723:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174724:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174727:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174727:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174728:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174728:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174729:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174732:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174732:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174733:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174733:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174734:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174737:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174737:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174738:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174738:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174739:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174742:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174742:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174743:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174743:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174744:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174744:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174747:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174747:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174748:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174748:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174749:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174749:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174752:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174752:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174753:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174753:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174754:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174754:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174757:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174757:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174758:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174759:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174759:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174759:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174802:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174802:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174803:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174804:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174804:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174804:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174807:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174807:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174808:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174809:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174809:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174809:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174812:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174812:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174813:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174814:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174814:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174814:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174817:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174817:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174818:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174819:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174819:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174819:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174822:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174822:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174823:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174824:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174824:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174824:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174827:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174827:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174828:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174829:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174829:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174829:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174832:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174832:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174833:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174834:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174834:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174834:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174837:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174837:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174838:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174839:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174839:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174839:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174842:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174842:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174843:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174844:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174844:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174844:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174847:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174847:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174848:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174849:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174849:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174849:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174852:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174852:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174853:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174854:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174854:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174854:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174857:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174857:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174858:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174859:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174859:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174859:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174902:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174902:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174903:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174904:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174904:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174904:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174907:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174907:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174908:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174909:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174909:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174909:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174912:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174912:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174913:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174914:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174914:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174914:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174917:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174917:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174918:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174919:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174919:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174919:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174922:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174922:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174923:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174924:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174924:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174924:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174927:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174927:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174929:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174929:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174929:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174929:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174932:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174932:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174934:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174934:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174934:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174934:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174937:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174937:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174939:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174939:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174939:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174939:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174942:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174942:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174944:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174944:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174944:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174944:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174947:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174947:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174949:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174949:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174949:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174949:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174952:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174952:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174954:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174954:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174954:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174955:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174957:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174957:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174959:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174959:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/174959:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175000:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175002:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175002:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175004:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175004:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175004:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175601:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175606:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175611:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175616:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175621:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175626:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175631:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175636:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175641:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175646:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175651:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175656:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175659:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175701:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175704:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175710:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175715:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175720:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175725:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175730:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175735:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175740:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175745:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175750:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175755:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175800:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175805:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175810:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175815:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175820:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175825:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175830:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175835:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175840:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175845:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/175851:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211055:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211056:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211100:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211101:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211105:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211106:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211110:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211111:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211115:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211116:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211120:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211121:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211125:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211126:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211130:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211131:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211135:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211136:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211140:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211141:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211145:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211146:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211150:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211151:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211155:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0507/211156:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001008:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001008:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001009:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001013:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001013:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/001014:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[8548:0508/102204:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[4772:0511/222325:WARNING:ipc_channel_win.cc(274)] Unable to create pipe "\\.\pipe\chrome.5176.0.107901826" in client mode: The system cannot find the file specified. (0x2)
+[7796:0511/222349:WARNING:ipc_channel_win.cc(274)] Unable to create pipe "\\.\pipe\chrome.1820.0.183240079" in client mode: The system cannot find the file specified. (0x2)

@@ -1,7 +1,9 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-
+app/public/libs/**
+node_modules/**
+build/**/*
 # Folder config file
 Desktop.ini
 

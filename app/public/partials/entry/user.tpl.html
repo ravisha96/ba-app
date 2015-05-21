@@ -1,0 +1,77 @@
+<div ui-view="userEntry" class="col-xs-12 user-entry">
+	<div class="row">
+		<div class="pull-left col-xs-4">
+			<table class="table">
+				<thead>
+					<tr>
+						<th class="col-xs-6">Code</th>
+						<th class="col-xs-6">Name</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="user in user.list">
+						<td>{{user.id}}</td>
+						<td>{{user.name}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="pull-right register col-xs-7">
+			<form class="form-horizontal" ng-submit="user.register()">
+				<div class="form-group">
+					<label for="name" class="col-sm-2 control-label">Name</label>
+					<div class="col-sm-10">
+					  <input type="text" class="form-control" ng-model="user.name" id="name" placeholder="Name">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="state" class="col-sm-2 control-label">State</label>
+					<div class="col-sm-10">
+					  <input type="text" class="form-control" ng-model="user.state" id="state" placeholder="State">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="telephone" class="col-sm-2 control-label">Telephone</label>
+					<div class="col-sm-10">
+					  <input type="tel" class="form-control" ng-model="user.telephone" id="telephone" placeholder="Telephone">
+					</div>
+				</div>
+				<div class="form-group">
+					<fieldset>
+					    <legend>References</legend>
+					    <div class="form-group" mass-autocomplete>
+						    <label for="match-commission">Match Commission</label>
+							<input ng-model="dirty.value"
+								   id="match-commission"
+								   mass-autocomplete-item="user.list">
+					    </div>
+					    <div class="form-group">
+						    <label for="session-commission">Session Commission</label>
+						    <select id="session-commission" ng-model="user.sessionsCommission">
+						    	<option value="">select</option>
+						    </select>
+					    </div>
+					    <div class="form-group">
+						    <label for="patti">Patti</label>
+						    <select id="patti" ng-model="patti">
+						    	<option value="">select</option>
+						    </select>
+					    </div>
+					    <div class="form-group">
+						    <label for="cutting-reference" ng-model="user.cuttingReference">Cutting Reference</label>
+						    <select id="cutting-reference">
+						    	<option value="">select</option>
+						    </select>
+					    </div>
+					</fieldset>
+					<div class="form-group">
+						<button type="submit">Save</button>
+						<button ng-click="update">Modify</button>
+						<button ng-click="print">Print</button>
+						<button type="reset">Clear</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
