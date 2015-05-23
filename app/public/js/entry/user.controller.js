@@ -15,18 +15,12 @@ var ba;
                  * Get all registered users from database and update the scope.
                  * @returns {{}}
                  */
-                this.usersList = function () {
+                this.getUsersList = function () {
                     new DB.Table().selectAll([BAConfig.ObjectStores.Register]).done(function (result) {
-                        console.log(result);
                         _this.$timeout(function () {
                             _this.$scope.user.list = result;
                         }, 10);
                     });
-                };
-                /**
-                 *
-                 */
-                this.matchCommission = function () {
                 };
                 /**
                  * Registers a new user.
@@ -59,7 +53,7 @@ var ba;
                     telephone: this.telephone,
                     list: this.list
                 };
-                this.usersList();
+                this.getUsersList();
             }
             UserEntryController.$inject = ['$scope', '$timeout'];
             return UserEntryController;

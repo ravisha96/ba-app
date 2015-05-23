@@ -25,7 +25,7 @@ module ba.entry {
         name: string;
         state: string;
         telephone: number;
-        list: any
+        list: any;
 
         static $inject = ['$scope', '$timeout'];
 
@@ -50,7 +50,7 @@ module ba.entry {
                 list: this.list
             };
 
-            this.usersList();
+            this.getUsersList();
 
         }
 
@@ -59,22 +59,13 @@ module ba.entry {
          * Get all registered users from database and update the scope.
          * @returns {{}}
          */
-        private usersList = (): void => {
+        private getUsersList = (): void => {
 
             new DB.Table().selectAll([BAConfig.ObjectStores.Register]).done( (result): void => {
-                console.log(result);
                     this.$timeout( () => {
                         this.$scope.user.list = result;
                     }, 10);
             });
-
-        }
-
-
-        /**
-         *
-         */
-        matchCommission = (): void => {
 
         }
 

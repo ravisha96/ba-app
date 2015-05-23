@@ -7,7 +7,8 @@ var ba;
     'use strict';
     angular.module('ba.entry', []);
     angular.module('betting-assistance', [
-        'ui.router'
+        'ui.router',
+        'AutoCompleteApp'
     ]);
 })(ba || (ba = {}));
 //# sourceMappingURL=app.js.map

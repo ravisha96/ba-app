@@ -11,6 +11,7 @@ module ba {
 
         angular
             .module('betting-assistance', [
-                'ui.router'
+                'ui.router',
+                'AutoCompleteApp'
             ]);
 }

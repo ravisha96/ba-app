@@ -10,6 +10,10 @@
 ///<reference path="../typings/underscore/underscore.d.ts"/>
 ///<reference path="../typings/jquery/jquery.d.ts"/>
 /**
+ * COMMON COMPONENTS
+ */
+///<reference path="common/autoComplete/autoComplete.ts"/>
+/**
  * DATABASE PLUGIN DEPENDENCIES
  */
 ///<reference path="plugin/indexedDB/connection.ts"/>

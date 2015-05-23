@@ -1,0 +1,17 @@
+<div class="auto-suggestion">
+    <label for="match-commission">Match Commission</label>
+    <input
+        type="text"
+        id="match-commission"
+        ng-model="queryText"
+        ng-keypress="ac.suggestion($event, true)"/>
+
+    <div ng-show="ac.isShow">
+        <span>{{ac.isShow}}</span>
+        <ul ng-click="ac.selectedItem">
+            <li ng-repeat="item in searchText | filter:queryText ">
+                {{item[ac.itemName]}}
+            </li>
+        </ul>
+    </div>
+</div>
